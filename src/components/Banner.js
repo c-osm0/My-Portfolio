@@ -59,8 +59,8 @@ export const Banner = () => {
             <TrackVisibility>
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                <span className="tagline">Namaste</span>
-                <h1>{`Hi! I'm Aryan Raj! `} </h1>
+                <span className="tagline">Namaste !</span>
+                <h1>{` I'm Aryan Raj! `} </h1>
                   <h4>I love to work on Projects and explore different domains.</h4>
                   <br></br>
                   <i><q>Please feel free to contact me on my E-mail<a className='emaanc' href="mailto:rajaryanhome@gmail.com"> <div className='ema'> by clicking here. </div></a> </q></i>
